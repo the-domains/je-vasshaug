@@ -1,0 +1,28 @@
+name: JE Vasshaug
+favicon: null
+layout_spectrum: 0.5131919286213815
+typography_spectrum: 0.5955640310421586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6380525764543563
+  lightness: 0.1854514260776341
+  saturation: 0.7241904842667282
+  rhythmicContrast: 0.031750345369800925
+purpose: []
