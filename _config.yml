@@ -1,8 +1,7 @@
+name: JE Vasshaug
+favicon: null
 layout_spectrum: 0.3620072
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.749104
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: JE Vasshaug
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.5
-  rhythmicContrast: 0
   brandColors:
     - '#524741'
     - '#346051'
     - '#86765c'
     - '#5b866b'
     - '#b98c48'
+  brandStrength: 0.5
   lightness: 0.25
-typography_spectrum: 0.749104
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: JE Vasshaug
+  saturation: 0.75
+  rhythmicContrast: 0
+purpose: []
